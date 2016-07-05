@@ -11,7 +11,7 @@ Your goal is to use security vulnerabilities in the vulnerable web app to:
 - Hack into his e-mail and facebook  accounts using this information
 - The first one who can post the status update “JavaScript Coding Nights Munich Rocks -  a lot” + her / his name on Walter Facebook timeline is the winner :)
 
-You can create accounts on the vulnerable web aapp using the “register” function. Use the comment function to try an inject JS.
+You can create accounts on the vulnerable web app using the “register” function. Use the comment function to try an inject JS.
 
 A good way to get started, is to steal Walter’s PHP cookies and then hijack his PHP session using the PHPSESSID cookie. You could also hack other participants and delete their comments and accounts.
 
